@@ -1,6 +1,6 @@
 {
   "name": "davfervaz/yii2-image-cutter",
-  "description": "Yii2 crop image widget",
+  "description": "Yii2 crop image widget modification",
   "version": "1.0",
   "type": "yii2-extension",
   "keywords": [
@@ -13,8 +13,8 @@
   ],
   "authors": [
     {
-      "name": "Aleksandr Sadovoj, David Fernandez (Mod)",
-      "email": "sadovojav@gmail.com, dfernandez@ingenieriacreativa.es",
+      "name": "David Fernandez",
+      "email": "dfernandez@ingenieriacreativa.es",
       "homepage": "https://github.com/davfervaz"
     }
   ],

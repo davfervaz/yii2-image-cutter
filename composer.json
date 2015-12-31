@@ -1,0 +1,31 @@
+{
+  "name": "davfervaz/yii2-image-cutter",
+  "description": "Yii2 crop image widget",
+  "version": "1.0",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "cutter",
+    "crop",
+    "upload",
+    "image",
+    "mod"
+  ],
+  "authors": [
+    {
+      "name": "Aleksandr Sadovoj, David Fernandez (Mod)",
+      "email": "sadovojav@gmail.com, dfernandez@ingenieriacreativa.es",
+      "homepage": "https://github.com/davfervaz"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*",
+    "yiisoft/yii2-imagine": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "davfervaz\\cutter\\": ""
+    }
+  }
+}
